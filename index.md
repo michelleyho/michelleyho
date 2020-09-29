@@ -2,6 +2,7 @@
 
 ### About Me
 <a href="https://www.linkedin.com/in/michelle-ho-0999161a"> Linkedin </a>
+<br>
 <a href="https://www.womenwhocode.com/sv/about">Women Who Code - Silicon Valley - About </a>
 
 - Software Engineer at Intel.
