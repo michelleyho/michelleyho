@@ -1,7 +1,7 @@
 ## Welcome to michelleyho GitHub Pages
 
 ### About Me
-https://www.linkedin.com/in/michelle-ho-0999161a
+<a href="https://www.linkedin.com/in/michelle-ho-0999161a"> Linkedn </a>
 
 Currently a software engineers with Intel.
 Responsible for Infrastructure and Build Releases of Intels' PAC cards and OPAE software. 
@@ -12,7 +12,7 @@ Director from 2019-Present
 Leader from 2018.
 In charge of creating new events and learning resources for our 7000 chapter members
 Mentor and train new members to become leaders of our group.
-https://www.womenwhocode.com/sv/about
+<a href="https://www.womenwhocode.com/sv/about">Women Who Code - Silicon Valley - About </a>
 
 Previously, a ASIC hardware verification engineer at Cisco
 
