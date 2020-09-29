@@ -11,8 +11,7 @@
 
 - Women Who Code - Silicon Valley Chapter - Director (__Present__)
   - In charge of creating new events and learning resources for our 7000 chapter members
-  - Mentor and train new members to become leaders of our group.
-  - 
+  - Mentor and train new members to become leaders of our group. 
 
 - ASIC Hardware Verification Engineer at Cisco __(Past)__
 
