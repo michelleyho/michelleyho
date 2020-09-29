@@ -1,7 +1,8 @@
 ## Welcome to michelleyho GitHub Pages
 
 ### About Me
-<a href="https://www.linkedin.com/in/michelle-ho-0999161a"> Linkedn </a>
+<a href="https://www.linkedin.com/in/michelle-ho-0999161a"> Linkedin </a>
+<a href="https://www.womenwhocode.com/sv/about">Women Who Code - Silicon Valley - About </a>
 
 - Software Engineer at Intel.
   - Responsible for Test Infrastructure and Automation.
@@ -13,7 +14,7 @@
   - Leader from 2018.
   - In charge of creating new events and learning resources for our 7000 chapter members
   - Mentor and train new members to become leaders of our group.
-  - <a href="https://www.womenwhocode.com/sv/about">Women Who Code - Silicon Valley - About </a>
+  - 
 
 Previously, a ASIC hardware verification engineer at Cisco
 
