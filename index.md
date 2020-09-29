@@ -1,8 +1,7 @@
 ## Welcome to michelleyho GitHub Pages
 
 ### About Me
-[LinkedIn Profile](https://www.linkedin.com/in/michelle-ho-0999161a)
-
+[LinkedIn Profile](https://www.linkedin.com/in/michelle-ho-0999161a)  
 [Women Who Code - Silicon Valley - About](https://www.womenwhocode.com/sv/about)
 
 - Software Engineer at Intel. __(Present)__
