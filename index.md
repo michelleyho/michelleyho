@@ -3,9 +3,10 @@
 ### About Me
 <a href="https://www.linkedin.com/in/michelle-ho-0999161a"> Linkedn </a>
 
-- Currently a software engineers with Intel.
-  -Responsible for Infrastructure and Build Releases of Intels' PAC cards and OPAE software. 
-
+- Software engineers at Intel.
+  - Responsible for Test Infrastructure and Automation.
+  - Responsible for all Build Releases of Intels' PAC cards and OPAE software. 
+  - In charge of ensuring products go through SDL Security Checks prior to release.
 
 - Enthusiastic Women Who Code - Silicon Valley Chapter Member
   - Director from 2019-Present
